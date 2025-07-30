@@ -1,9 +1,9 @@
-
+import { Weather } from "./components/Weather.js";
 
 function App() {
   return (
     <div className="App">
-      <weather/>
+      <Weather/>
     </div>
   );
 }
